@@ -1,0 +1,28 @@
+label {
+ margin-top: 10px;
+ float: left;
+ text-align: left;
+ width: 100%;
+ }
+ input{
+ 	width: 200px;
+ 	outline-color: green;
+ }
+ .base {
+ width: 500px;
+ height: auto;
+ padding: 20px;
+ margin-left: auto;
+ margin-right: auto;
+ background: #ededed;
+ }
+ button{
+ 	width: 80px;
+ 	height: 25px;
+ 	background: salmon;
+ 	border:none;
+ 	border-radius: 5px;
+ }
+ li{
+ 	margin-top: 10px;
+ }
